@@ -193,17 +193,23 @@ supernatural, claymore, the vampire diaries, prometheus, and revenge of the sith
 
 ### ❖ &nbsp;nine candles left&nbsp; ❖
 
-```text
-                     )
-           )        | |        )
- )        | |       | |   )   | |        )
-| |   )   | |   )   | |  | |  | |   )   | |
-| |  | |  | |  | |  | |  | |  | |  | |  | |
-| |  | |  | |  | |  | |  | |  | |  | |  | |
-===  ===  ===  ===  ===  ===  ===  ===  ===
-
-          nine candles left
-```
+<table align="center">
+  <tr>
+    <td align="center">01<br/>keep<br/>wondering</td>
+    <td align="center">02<br/>make<br/>something</td>
+    <td align="center">03<br/>leave<br/>a light</td>
+  </tr>
+  <tr>
+    <td align="center">04<br/>write<br/>it down</td>
+    <td align="center">05<br/>start<br/>again</td>
+    <td align="center">06<br/>stay<br/>curious</td>
+  </tr>
+  <tr>
+    <td align="center">07<br/>take<br/>your time</td>
+    <td align="center">08<br/>notice<br/>the small</td>
+    <td align="center">09<br/>keep<br/>going</td>
+  </tr>
+</table>
 
 <sub>my other corner of the internet is called <a href="https://ninecandlesleft.vercel.app">ninecandlesleft</a>. the candles are for that.</sub>
 
