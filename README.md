@@ -221,6 +221,6 @@ supernatural, claymore, the vampire diaries, prometheus, and revenge of the sith
 
 <sub>❖ thanks for stopping by ❖</sub>
 
-<sub>© aayu (seravivra). all rights reserved.</sub>
+<sub>© thisisaayu, aayu (seravivra). all rights reserved.</sub>
 
 </div>
