@@ -46,25 +46,16 @@ i'm a cs student who cares a lot about design, and i'm learning animation right 
 
 most days you'll find me either stuck on a sentence or stuck on a bug. both are fun.
 
-```js
-const aayu = {
-  alias: "sera vivra",
-  age: 19,
-  roles: ["writer", "developer", "cs student"],
-  writing: ["Yesterday, Tomorrow, Forever", "Faithless", "far from reality"],
-  building: ["Reign", "Rifted", "Network"],
-  learning: "animation",
-  inspiredBy: "manga",
-  getsLostIn: ["skyrim", "noita", "terraria"],
-
-  say(hi) {
-    return `${hi}, thanks for stopping by`;
-  },
-};
-
-console.log(aayu.say("hey"));
-// output: hey, thanks for stopping by
-```
+<div align="center">
+<table>
+  <tr><th colspan="2">right now</th></tr>
+  <tr><td align="right"><b>✎ &nbsp;writing</b></td><td>Yesterday, Tomorrow, Forever &nbsp;/&nbsp; Faithless &nbsp;/&nbsp; far from reality</td></tr>
+  <tr><td align="right"><b>◈ &nbsp;building</b></td><td>Reign &nbsp;/&nbsp; Rifted &nbsp;/&nbsp; Network</td></tr>
+  <tr><td align="right"><b>➳ &nbsp;learning</b></td><td>animation</td></tr>
+  <tr><td align="right"><b>❡ &nbsp;inspired by</b></td><td>manga</td></tr>
+  <tr><td align="right"><b>⚄ &nbsp;getting lost in</b></td><td>skyrim &nbsp;/&nbsp; noita &nbsp;/&nbsp; terraria</td></tr>
+</table>
+</div>
 
 <br/>
 
