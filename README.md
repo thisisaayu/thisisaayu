@@ -61,6 +61,9 @@ const aayu = {
     return `${hi}, thanks for stopping by`;
   },
 };
+
+console.log(aayu.say("hey"));
+// output: hey, thanks for stopping by
 ```
 
 <br/>
