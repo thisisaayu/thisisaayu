@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-[**portfolio**](https://seravivra.vercel.app) &nbsp;|&nbsp; [**writing**](https://seravivra.vercel.app/writing.html) &nbsp;|&nbsp; [**projects**](https://seravivra.vercel.app/projects.html) &nbsp;|&nbsp; [**my other space**](https://ninecandlesleft.vercel.app)
+[**portfolio**](https://seravivra.vercel.app) &nbsp;|&nbsp; [**writing**](https://seravivra.vercel.app/writing.html) &nbsp;|&nbsp; [**projects**](https://seravivra.vercel.app/projects.html) &nbsp;|&nbsp; [**github**](https://github.com/thisisaayu) &nbsp;|&nbsp; [**my other space**](https://ninecandlesleft.vercel.app)
 
 </div>
 
@@ -40,9 +40,9 @@
 
 </div>
 
-hey, i'm aayu. i write fiction, make open-source software, and build little interactive things for the internet.
+hey, i'm aayu. i write fiction, make open-source software, and build little interactive things for the internet — small places to wander around in, mostly.
 
-i'm a cs student who cares a lot about design, and i'm learning animation right now because i want what i make to look as good as it works. i read a lot of manga, and it shows up in my work more than i'd like to admit.
+i'm a cs student who cares a lot about design, and i'm learning animation because i want what i make to feel as good as it works. i read a lot of manga, and it sneaks into my work more than i'd like to admit.
 
 most days you'll find me either stuck on a sentence or stuck on a bug. both are fun.
 
@@ -50,7 +50,7 @@ most days you'll find me either stuck on a sentence or stuck on a bug. both are 
 <table>
   <tr><th colspan="2">right now</th></tr>
   <tr><td align="right"><b>✎ &nbsp;writing</b></td><td>Yesterday, Tomorrow, Forever &nbsp;/&nbsp; Faithless &nbsp;/&nbsp; far from reality</td></tr>
-  <tr><td align="right"><b>◈ &nbsp;building</b></td><td>Reign &nbsp;/&nbsp; Rifted &nbsp;/&nbsp; Network</td></tr>
+  <tr><td align="right"><b>◈ &nbsp;building</b></td><td>Reign &nbsp;/&nbsp; Ashwick’s Sanctum &nbsp;/&nbsp; Deepdrift</td></tr>
   <tr><td align="right"><b>➳ &nbsp;learning</b></td><td>animation</td></tr>
   <tr><td align="right"><b>❡ &nbsp;inspired by</b></td><td>manga</td></tr>
   <tr><td align="right"><b>⚄ &nbsp;getting lost in</b></td><td>skyrim &nbsp;/&nbsp; noita &nbsp;/&nbsp; terraria</td></tr>
@@ -82,7 +82,7 @@ my self-published novel. you can read the whole thing in your browser.
 #### ✎ reign
 *open source text editor*
 
-a minimal editor for focused writing and coding, made because i wanted fewer distractions.
+a writing studio for stories and code: markdown, wikilinks, a graph view, and a novel view that lays a manuscript out like a book. made because sometimes the blank page needs fewer distractions — and better margins.
 
 [**see the code →**](https://github.com/thisisaayu/Reign)
 
@@ -91,22 +91,22 @@ a minimal editor for focused writing and coding, made because i wanted fewer dis
   <tr>
     <td width="50%" valign="top">
 
-#### ♞ rifted
-*a strategy game*
+#### ☼ deepdrift
+*a scroll-driven canvas poem*
 
-a board-style strategy game you can play right now in the browser. the repo goes public soon.
+an ocean of quiet memories, orbiting as words and fragments gather into a celestial body. a small meditation on what we keep and what we let drift away.
 
-[**play it →**](https://rifted.vercel.app)
+[**experience it →**](https://deepdrift.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-#### ❂ network
-*all my work in one place*
+#### ✧ ashwick’s sanctum
+*a little spellcraft toy*
 
-a web that connects everything i make. the repo goes public soon too.
+draw a sigil on parchment and see what answers — or ask the illustrated mage to cast a preset spell. ink, strange colors, little sparks, and sounds from nowhere.
 
-[**have a look →**](https://neural-fawn.vercel.app/)
+[**try a spell →**](https://falsemage.vercel.app/)
 
 </td>
   </tr>
