@@ -120,11 +120,11 @@ draw a sigil on parchment and see what answers — or ask the illustrated mage t
 
 </div>
 
-right now i'm working on a few novels:
+currently writing:
 
-> † *Yesterday, Tomorrow, Forever*
-> † *Faithless*
-> † *far from reality* (the online release)
+> ✎ *Crown Jewel* — an epic fantasy of five kingdoms, dangerous magic, and the cost of wanting more power.
+
+the others have found their endings: *Yesterday, Tomorrow, Forever*, *Faithless*, and *far from reality* (the online release) are complete.
 
 <br/>
 
