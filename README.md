@@ -122,7 +122,7 @@ draw a sigil on parchment and see what answers — or ask the illustrated mage t
 
 currently writing:
 
-> ✎ *Crown Jewel* — an epic fantasy of five kingdoms, dangerous magic, and the cost of wanting more power.
+> ✎ *Crown Jewel*, an epic fantasy of five kingdoms, dangerous magic, and the cost of wanting more power.
 
 the others have found their endings: *Yesterday, Tomorrow, Forever*, *Faithless*, and *far from reality* (the online release) are complete.
 
