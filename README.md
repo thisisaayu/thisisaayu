@@ -79,12 +79,12 @@ my self-published novel. you can read the whole thing in your browser.
 </td>
 <td width="50%" valign="top">
 
-#### ✎ reign
-*open source text editor*
+#### ☾ cosmic horror
+*an interactive little descent into cosmic dread*
 
-a writing studio for stories and code: markdown, wikilinks, a graph view, and a novel view that lays a manuscript out like a book. made because sometimes the blank page needs fewer distractions — and better margins.
+step into an ASCII-lit cosmic horror space and see what stirs in the dark. best explored with the lights low and your curiosity intact.
 
-[**see the code →**](https://github.com/thisisaayu/Reign)
+[**enter the dark →**](https://dreadfuleyes.vercel.app/) &nbsp;·&nbsp; [**see the code →**](https://github.com/thisisaayu/cosmichorror)
 
 </td>
   </tr>
