@@ -96,7 +96,7 @@ step into an ASCII-lit cosmic horror space and see what stirs in the dark. best 
 
 an ocean of quiet memories, orbiting as words and fragments gather into a celestial body. a small meditation on what we keep and what we let drift away.
 
-[**experience it →**](https://deepdrift.vercel.app/)
+[**experience it →**](https://deepdrift.vercel.app/) &nbsp;·&nbsp; [**see the code →**](https://github.com/thisisaayu/deepdrift)
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +106,7 @@ an ocean of quiet memories, orbiting as words and fragments gather into a celest
 
 draw a sigil on parchment and see what answers — or ask the illustrated mage to cast a preset spell. ink, strange colors, little sparks, and sounds from nowhere.
 
-[**try a spell →**](https://falsemage.vercel.app/)
+[**try a spell →**](https://falsemage.vercel.app/) &nbsp;·&nbsp; [**see the code →**](https://github.com/thisisaayu/ashwick)
 
 </td>
   </tr>
